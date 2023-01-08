@@ -8,7 +8,7 @@
 		<version>2.6.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.dailycodebuffer</groupId>
+	<groupId>com.rahulgite</groupId>
 	<artifactId>employee-system-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>employee-system-api</name>
